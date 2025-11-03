@@ -19,7 +19,7 @@ Education
 
 Academic experience
 ======
-* 09 2024 - Now: Postdoctoral Fellow
+* Sept. 2024 - Now: Postdoctoral Fellow
   * Ecole Polytechnique
   * Supervisor: Prof. Josselin Garnier
 
