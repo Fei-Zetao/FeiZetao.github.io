@@ -1,19 +1,14 @@
-# ==============================
 # Site settings
-# ==============================
-title: "Zetao Fei-test"
+title: "Zetao Fei"
 tagline: "Postdoctoral Fellow at École Polytechnique"
 email: "zetao.fei@polytechnique.edu"
 author: "Zetao Fei"
 description: "Research interests: inverse problems, imaging, wave physics"
-baseurl: "" # the subpath of your site, e.g. /academicpages
-url: "https://fei-zetao.github.io" # your GitHub Pages URL
+baseurl: ""
+url: "https://fei-zetao.github.io"
 
-
-# ==============================
 # Theme settings
-# ==============================
-theme: academicpages
+remote_theme: "academicpages/academicpages"
 header_pages:
   - index.md
   - research.md
@@ -21,24 +16,18 @@ header_pages:
   - teaching.md
   - contact.md
 
-# ==============================
 # Footer and social links
-# ==============================
 footer: "© 2025 Zetao Fei"
 show_sitemap: true
 show_rss: true
 show_related_posts: true
 show_share_buttons: true
 
-# ==============================
 # Build settings
-# ==============================
 markdown: kramdown
 highlighter: rouge
 
-# ==============================
 # Navigation
-# ==============================
 navigation:
   - title: "Home"
     url: /
@@ -50,4 +39,3 @@ navigation:
     url: /teaching/
   - title: "Contact"
     url: /contact/
-
