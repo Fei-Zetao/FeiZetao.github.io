@@ -1,16 +1,20 @@
 ---
 layout: archive
-title: "Talks and presentations"
-permalink: /talks/
+title: ""
+permalink: /teaching/
 author_profile: true
+redirect_from:
+  - /resume
 ---
+{% include base_path %}
 
-{% if site.talkmap_link == true %}
+At HKUST, Teaching Assistant
+======
+* Multivariable Calculus, Spring 2020.
+* Real Analysis, Fall 2020 & Spring 2021.
+* Calculus and Linear Algebra, Fall 2021.
+* Complex Analysis, Spring 2022.
+* Functional Analysis, Fall 2022.
+* Calculus II, Spring 2023.
+* Mathematical Analysis, Fall 2023.
 
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
-
-{% endif %}
-
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
-{% endfor %}
