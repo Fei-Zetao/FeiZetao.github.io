@@ -20,4 +20,4 @@ My research interests include inverse problems and imaging, wave physics, and si
 Contact
 ======
 
-Email: zetao [dot] fei [at] polytechnique [dot] edu.
+Email: zetao[dot]fei[at]polytechnique[dot]edu.
