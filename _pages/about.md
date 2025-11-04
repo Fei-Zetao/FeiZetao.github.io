@@ -7,11 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I am now a postdoctoral fellow in Centre de Mathématique et Appliquées, working with Prof. Josselin Garnier at École Polytechnique, France. 
+I am currently a Postdoctoral Fellow at the Centre de Mathématiques Appliquées, École Polytechnique, France, working with Prof. Josselin Garnier.
 
-Before that, I got my PhD at the Hong Kong University of Science and Technology, under supervision of Prof. Hai Zhang.
+Previously, I obtained my Ph.D. in Mathematics from the Hong Kong University of Science and Technology (HKUST), under the supervision of Prof. Hai Zhang.
 
-My research interests lie in inverse problems and imaging, wave physics, and signal processing.
+My research interests include inverse problems, imaging, wave physics, and signal processing.
+
 
 A data-driven personal website
 ======
