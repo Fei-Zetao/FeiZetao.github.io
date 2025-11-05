@@ -5,11 +5,11 @@ permalink: /research/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">
-{% endif %}
-
 {% include base_path %}
+My current research focuses on **inverse problems and imaging**, and **wave physics**.  
+You can find my publications on [🔗 Google Scholar Profile](https://scholar.google.com/citations?user=o8vhStAAAAAJ&hl=en){:target="_blank"}
+
+
 
 
 
